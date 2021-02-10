@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: About our Organization
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This Channel is for Learning Programming Technologies like
+Web: HTML5, NODE JS, ANGULAR JS, JQUERY, JAVASCRIPT, AJAX, CSS3 ,REACT, Express, Ember, Vue
+Programming Languages: PYTHON, JAVA, JAVA EE, SPRING, HIBERNATE, SERVLETS, JSF, C, C++, PERL, RUBY ON RAILS
+Integration: SOAP, REST, HTTP, JMS, MQ Integration, GraphQL,Grpc
+Pega, Hybris, Blockchain, Adobe AEM, Salesforce, DEVOPS....
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Digital transformation and IOT (Internet of things)
 
-What else do you need?
+Google , Microsoft , Amazon, IBM, Facebook,Oracle, Alibaba Features and Products
+Machine Learning with Text and Image processing
+Bigdata,Spark,Scala, HBase,Tabaleau,SAS,R
 
-### My story
+FUN FOR KIDS
+Learn English, Math, Science
+Programming for Kids with Scratch / Tinkercad / Grasshopper / MIT App Inventor / Snap
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Learning Languages
+Hindi, English, Oriya, French
+
+[Our YouTube Channel](https://www.youtube.com/channel/UCPK-CMPMf8juRuFyUVzwDsw)
